@@ -1,8 +1,6 @@
-const addresses = {
-    CarbonCreditToken: "0xAb8792567159D6114603bb5616432326fB1Bf103",
-    GreenNFT: "0xBc78d66a08f46C0C4732b372C93E40028C9b5d9c",
-    CarbonMarketplace: "0x27acCBFb478d940DbAB1392c29897054782270D9",
-  };
-  
-  export default addresses;
+export default {
+  CarbonMarketplace: '0x27acCBFb478d940DbAB1392c29897054782270D9',
+  GreenNFT: '0xBc78d66a08f46C0C4732b372C93E40028C9b5d9c',
+  CarbonCreditToken: '0xAb8792567159D6114603bb5616432326fB1Bf103'
+}
   
